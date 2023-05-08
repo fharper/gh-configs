@@ -44,6 +44,9 @@
 		},
 		{
 			"pattern": "https://cncf.io*"
+		},
+		{
+			"pattern": "https://twitter.com*"
 		}
 	],
   "timeout": "30s",
