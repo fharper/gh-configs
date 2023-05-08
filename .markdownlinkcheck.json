@@ -41,6 +41,9 @@
 		},
 		{
 			"pattern": "https://.*kubefirst.dev*"
+		},
+		{
+			"pattern": "https://cncf.io*"
 		}
 	],
   "timeout": "30s",
