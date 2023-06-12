@@ -47,8 +47,11 @@
 		},
 		{
 			"pattern": "https://twitter.com*"
-		}
-	],
+		},
+        {
+            "pattern": "https://redbubble.com*"
+        },
+    ],
   "timeout": "30s",
   "retryOn429": true,
   "retryCount": 2,
