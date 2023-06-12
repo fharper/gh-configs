@@ -15,7 +15,7 @@ In the GitHub Actions using one of the configuration file, I'm using the [wget](
 
 ```yaml
 - name: Download .markdownlint.json
-  uses: wei/wget@v1
+  uses: fharper/wget@v1
   with:
     args: https://raw.githubusercontent.com/fharper/gh-configs/main/.markdownlint.json
 ```
