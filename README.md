@@ -11,7 +11,7 @@ It prevents me from having to update all repositories when I change something th
 
 ## How to use
 
-In the GitHub Actions using one of the configuration file, I'm using the [wget](https://github.com/wei/wget) GitHub Action as a step to download the configuration file as follow:
+In the GitHub Actions using one of the configuration file, I'm using the [wget](https://github.com/fharper/wget) GitHub Action as a step to download the configuration file as follow:
 
 ```yaml
 - name: Download .markdownlint.json
