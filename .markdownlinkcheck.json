@@ -51,6 +51,9 @@
         {
             "pattern": "https://redbubble.com*"
         },
+        {
+            "pattern": "http://softwareengineeringdaily.com/slack"
+        }
     ],
   "timeout": "30s",
   "retryOn429": true,
