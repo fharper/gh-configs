@@ -54,6 +54,9 @@
         {
             "pattern": "http://softwareengineeringdaily.com/slack"
         }
+        {
+            "pattern": "https://www.hilton.com*"
+        },
     ],
   "timeout": "30s",
   "retryOn429": true,
