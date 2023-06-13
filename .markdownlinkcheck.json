@@ -59,7 +59,7 @@
         },
         {
             "pattern": "https://*pipefy.com*"
-        },
+        }
     ],
   "timeout": "30s",
   "retryOn429": true,
