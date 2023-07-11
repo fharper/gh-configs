@@ -17,5 +17,5 @@ In the GitHub Actions using one of the configuration file, I'm using the [wget](
 - name: Download .markdownlint.json
   uses: fharper/wget@v1
   with:
-    args: https://raw.githubusercontent.com/fharper/gh-configs/main/.markdownlint.json
+    args: -O .markdownlint.json https://raw.githubusercontent.com/fharper/gh-configs/main/.markdownlint.json
 ```
