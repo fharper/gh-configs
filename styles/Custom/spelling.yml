@@ -1,5 +1,6 @@
 extends: spelling
 message: "Did you really mean '%s'?"
+nonword: true
 level: error
 ignore:
   - styles/Custom/ignore.txt
