@@ -81,6 +81,7 @@ uncomment
 
 # W
 walkthrough
+wget
 
 # X
 
