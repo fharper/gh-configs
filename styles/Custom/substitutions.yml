@@ -8,8 +8,8 @@ swap:
   CIVO: Civo
   cronjob: CronJob
   ecr: ECR
-  Github: GitHub
-  'git[H|h]ub': GitHub
+  'git[H|h]ub(?!-)': GitHub
+  'Github(?!-)': GitHub
   Gitlab: GitLab
   'git[L|l]ab': GitLab
   gitops: GitOps for the term or put gitops as inline code for the repository

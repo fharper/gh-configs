@@ -36,7 +36,7 @@ kubernetes
 
 # O
 oidc
-Ol'
+Ol
 
 # P
 
