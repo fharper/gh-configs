@@ -68,6 +68,7 @@ statestore
 
 # T
 teardown
+timeslots
 toolset
 Traefik
 truststore
