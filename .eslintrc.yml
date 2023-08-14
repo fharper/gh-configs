@@ -9,3 +9,4 @@ rules:
   indent: ["error", 4]
   padded-blocks: 0
   semi: ["error", "always"]
+  space-before-function-paren: 0
