@@ -59,7 +59,10 @@
         },
         {
             "pattern": "https://*pipefy.com*"
-        }
+        },
+		{
+			"pattern": "https://gitlab.com*"
+		}
     ],
   "timeout": "30s",
   "retryOn429": true,
