@@ -62,6 +62,9 @@
         },
 		{
 			"pattern": "https://gitlab.com*"
+		},
+		{
+			"pattern": "https://www.staralliance.com*"
 		}
     ],
   "timeout": "30s",
