@@ -1,15 +1,15 @@
 # A
+admunition
 anonymize
-Apress
 auditable
 automation
 
 # B
 
 # C
-Civo
-CLI
+CLI'
 ClusterIssuer
+containerd
 CPU
 CWFT
 
@@ -22,8 +22,6 @@ Docusaurus
 # E
 
 # F
-Flappy
-Fitbit
 
 # G
 
@@ -31,6 +29,7 @@ Fitbit
 hotfix
 
 # I
+interoperate
 
 # J
 
@@ -44,9 +43,11 @@ kubectl
 # M
 markdownlint
 mkcert
+multinode
 
 # N
 namespace
+nerdctl
 npm
 ngrok
 Nginx
@@ -55,7 +56,6 @@ Nginx
 onboarding
 
 # P
-Podman
 preconfigure
 
 # Q
@@ -66,10 +66,12 @@ routable
 
 # S
 statestore
+subnet
 
 # T
 teardown
 timeslots
+todo
 toolset
 Traefik
 truststore
@@ -79,10 +81,11 @@ Typesense
 uncomment
 
 # V
+vale
+Vultr
 
 # W
 walkthrough
-wget
 
 # X
 
