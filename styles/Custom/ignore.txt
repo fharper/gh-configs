@@ -13,7 +13,6 @@ ecr
 
 # F
 facto
-Flappy
 
 # G
 github
