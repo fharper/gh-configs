@@ -1,6 +1,7 @@
 # A
 admunition
 anonymize
+Apress
 auditable
 automation
 
@@ -9,6 +10,7 @@ automation
 # C
 CLI'
 ClusterIssuer
+combobox
 containerd
 CPU
 CWFT
@@ -22,6 +24,7 @@ Docusaurus
 # E
 
 # F
+Fitbit
 Flappy
 
 # G
@@ -39,8 +42,10 @@ kbot
 KMS
 kubectl
 kubefirst
+Kubeshop
 
 # L
+livestream
 
 # M
 markdownlint
@@ -58,6 +63,7 @@ Nginx
 onboarding
 
 # P
+Podman
 preconfigure
 
 # Q
@@ -81,6 +87,7 @@ Typesense
 
 # U
 uncomment
+unmuted
 
 # V
 vale
