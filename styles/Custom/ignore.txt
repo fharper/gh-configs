@@ -27,6 +27,7 @@ gitops
 
 # K
 kubefirst
+Kubernasty
 kubernetes
 
 # L
@@ -34,6 +35,7 @@ kubernetes
 # M
 
 # N
+Nativa
 
 # O
 oidc
