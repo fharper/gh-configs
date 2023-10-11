@@ -1,6 +1,7 @@
 # A
 admunition
 anonymize
+API
 Apress
 auditable
 automation
@@ -18,6 +19,7 @@ CWFT
 # D
 Datadog
 deprovision
+devrel
 Dockerfile
 Docusaurus
 
