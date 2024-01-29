@@ -65,6 +65,12 @@
 		},
 		{
 			"pattern": "https://www.staralliance.com*"
+		},
+		{
+		  "pattern": "^https://www.reddit.com"
+		}
+		{
+		  "pattern": "^https://support.supernote.com"
 		}
     ],
   "timeout": "30s",
