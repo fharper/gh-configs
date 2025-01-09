@@ -42,9 +42,14 @@ interoperate
 # K
 kbot
 KMS
+krew
 kubectl
+kubectx
+kubens
 kubefirst
+kubeinvaders
 Kubeshop
+Kustomize
 
 # L
 livestream
