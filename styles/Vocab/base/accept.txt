@@ -98,6 +98,7 @@ unmuted
 
 # V
 vale
+vite
 Vultr
 
 # W
