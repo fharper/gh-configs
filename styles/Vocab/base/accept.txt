@@ -7,6 +7,7 @@ auditable
 automation
 
 # B
+Bluesky
 
 # C
 CLI'
@@ -56,6 +57,7 @@ livestream
 
 # M
 markdownlint
+Marriot
 mkcert
 multinode
 
