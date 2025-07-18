@@ -6,6 +6,7 @@
 		"punctuation": ".,;:"
 	},
 	"MD033": false,
+	"MD036": false,
 	"MD049": {
 		"style": "underscore"
 	},
