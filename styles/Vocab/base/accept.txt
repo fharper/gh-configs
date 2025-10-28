@@ -59,6 +59,7 @@ livestream
 markdownlint
 Marriot
 mkcert
+Moodle
 multinode
 
 # N
