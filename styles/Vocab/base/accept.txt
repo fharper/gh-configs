@@ -97,6 +97,7 @@ truststore
 Typesense
 
 # U
+Umbraco
 uncomment
 unmuted
 
