@@ -17,11 +17,13 @@ Bluesky
 callout
 callouts
 Camunda
+CFPs
 CLI'
 ClusterIssuer
 combobox
 containerd
 CPU
+crafters
 CWFT
 
 # D
