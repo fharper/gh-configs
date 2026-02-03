@@ -4,6 +4,7 @@ Aiven
 Algolia
 anonymize
 API
+APIs
 Apress
 Atlassian
 auditable
@@ -14,6 +15,7 @@ Bluesky
 
 # C
 callout
+callouts
 Camunda
 CLI'
 ClusterIssuer
@@ -34,11 +36,11 @@ Docusaurus
 # F
 Fitbit
 Flappy
-Flyless Dev
 
 # G
 
 # H
+hackathons
 Higgs
 Hoopy
 hotfix
@@ -49,6 +51,7 @@ interoperate
 Inviter
 
 # J
+Jira
 
 # K
 kbot
@@ -66,6 +69,7 @@ Kymono
 
 # L
 livestream
+livestreams
 
 # M
 Mailchimp
@@ -73,6 +77,7 @@ markdownlint
 Marriot
 Mindee
 mkcert
+mobygratis
 Moodle
 Monzo
 mParticle
@@ -87,11 +92,14 @@ ngrok
 Nginx
 
 # O
+OKRs
 onboarding
 Owlbert
 Owly
 
 # P
+PDFs
+Pexels
 Podman
 preconfigure
 Printfection
@@ -100,6 +108,7 @@ Printfection
 
 # R
 Reloader
+Rollouts
 routable
 
 # S
@@ -109,7 +118,7 @@ Shortpixel
 signup
 Sitecore
 Slackin
-Software Crafters
+Slackmojis
 Splunk
 statestore
 subnet
@@ -118,6 +127,7 @@ subnet
 teardown
 timeslots
 Tiugo
+toc
 todo
 toolset
 Traefik
@@ -129,9 +139,13 @@ Typesense
 Umbraco
 uncomment
 unmuted
+unpublishing
+Unsplash
 
 # V
 vale
+vidcasts
+viewport
 vite
 Vonage
 Vultr
