@@ -9,8 +9,10 @@ Apress
 Atlassian
 auditable
 automation
+automations
 
 # B
+Backoffice
 Bluesky
 
 # C
@@ -30,6 +32,7 @@ CWFT
 Datadog
 deprovision
 devrel
+Devs
 Dockerfile
 Docusaurus
 
@@ -49,6 +52,7 @@ hotfix
 
 # I
 Iconmonstr
+influencers
 interoperate
 Inviter
 
@@ -72,6 +76,8 @@ Kymono
 # L
 livestream
 livestreams
+LLMs
+lockfile
 
 # M
 Mailchimp
@@ -89,6 +95,7 @@ multinode
 namespace
 nerdctl
 Nexmo
+node_modules
 npm
 ngrok
 Nginx
@@ -102,6 +109,7 @@ Owly
 # P
 PDFs
 Pexels
+pnpm
 Podman
 preconfigure
 Printfection
@@ -109,6 +117,7 @@ Printfection
 # Q
 
 # R
+reframes
 Reloader
 Rollouts
 routable
