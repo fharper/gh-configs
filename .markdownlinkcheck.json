@@ -68,9 +68,12 @@
 		},
 		{
 		  "pattern": "^https://www.reddit.com"
-		}
+		},
 		{
 		  "pattern": "^https://support.supernote.com"
+		},
+		{
+		  "pattern": "^\\.\\./\\.\\./issues"
 		}
     ],
   "timeout": "30s",
