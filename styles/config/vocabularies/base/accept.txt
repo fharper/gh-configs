@@ -31,6 +31,7 @@ CWFT
 
 # D
 Datadog
+Dependabot
 deprovision
 devrel
 Devs
@@ -38,6 +39,7 @@ Dockerfile
 Docusaurus
 
 # E
+ESLint
 
 # F
 Fitbit
@@ -47,6 +49,7 @@ Flappy
 
 # H
 hackathons
+hadolint
 Higgs
 Hoopy
 hotfix
@@ -95,6 +98,7 @@ multinode
 
 # N
 namespace
+neostandard
 nerdctl
 Nexmo
 node_modules
@@ -135,11 +139,13 @@ Slackin
 Slackmojis
 Splunk
 statestore
+stylelint
 subnet
 
 # T
 teardown
 textarea
+TFLint
 timeslots
 Tiugo
 toc
