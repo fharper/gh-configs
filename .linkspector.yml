@@ -1,0 +1,37 @@
+---
+dirs:
+  - .
+excludedDirs:
+  - ./node_modules
+useGitIgnore: true
+ignorePatterns:
+  - pattern: 'https://www.linkedin.com.*'
+  - pattern: '.*\]$'
+  - pattern: 'https://www.enterprisetimes.co.uk*'
+  - pattern: 'https://www.pexels.com*'
+  - pattern: 'https://www.pngrepo.com'
+  - pattern: 'https://tdwi.org*'
+  - pattern: 'https://www.fakepersongenerator.com*'
+  - pattern: 'https://dash.readme.com*'
+  - pattern: 'https://cfpland.com*'
+  - pattern: 'https://n8n.io*'
+  - pattern: 'https://confs.tech*'
+  - pattern: 'https://businesswire.com*'
+  - pattern: 'https://www.tmcnet.com*'
+  - pattern: 'https://.*kubefirst.dev*'
+  - pattern: 'https://cncf.io*'
+  - pattern: 'https://twitter.com*'
+  - pattern: 'https://www.redbubble.com*'
+  - pattern: 'http://softwareengineeringdaily.com/slack'
+  - pattern: 'https://www.hilton.com*'
+  - pattern: 'https://*pipefy.com*'
+  - pattern: 'https://gitlab.com*'
+  - pattern: 'https://www.staralliance.com*'
+  - pattern: '^https://www.reddit.com'
+  - pattern: '^https://support.supernote.com'
+  - pattern: '^\.\./\.\./issues'
+aliveStatusCodes:
+  - 200
+  - 429
+timeout: 30000
+retryCount: 2
