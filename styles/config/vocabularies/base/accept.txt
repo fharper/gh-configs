@@ -25,6 +25,7 @@ CLI'
 ClusterIssuer
 combobox
 containerd
+cppcheck
 CPU
 crafters
 CWFT
